@@ -1,0 +1,31 @@
+======>Thoughts on Back End Twitter<============
+We make we make  two models, one for the Tweets, one for the user.
+==>For the User model Schema, 
+we declare a name, a username.An e-mail, a password, a profile picture, a location, date of birth, following array, followers, array, tweets and lastly at timestamps 
+===>and now for the tweets Schema.
+ we declare content tweeted by array, likes array, retweet array, image array, reply array and lastly at timestamps.
+And after the model we declare APIs 
+ ===>for User . 
+We made API for  registering the user.
+ We made API for logging the user. 
+We made API for getting details of that particular user
+we made API for following the user.
+ We made API for unfollowing the user.
+ We made API for editing the user.
+We made API for get all the tweets by the user. 
+We made API for updating profile picture.
+===>Now for the tweet
+.We made API for creating the tweet.
+ We made API for liking the tweet.
+ We made API for disliking the tweet.
+ We made API for reply that tweet.
+ We made API for get tweet details.
+ We made API for get all the tweets together.
+ We made API for deleting the tweet.
+ We made API for retweeting.
+
+====>AND we write their ENDPOINTs<=============
+========>>>>And when we login the in the app we get a token Through Using JASON WEB TOKEN<=====
+ and the token validate in the back end so that we can find the user is valid, or not.
+after validate we sign the id into req.user
+==========>And for the uploading images we use MULTER  for uploading tweets Image or uploading profile picture.<======= 

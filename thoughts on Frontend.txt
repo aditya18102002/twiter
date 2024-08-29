@@ -1,0 +1,27 @@
+========>Thoughts on fornt end<============== 
+1st we make a login page
+ register page.
+In register page we give the data.Like full name, e-mail, username and password  to backend 
+and for the login page we give the data in the back end.E-mail or password
+Now we made a sidebar which has home page, profile page.And a logout NAV link
+in home Page The sidebar is in first section.
+ In the second section we get a tweet list.
+we can see all the tweets by the user or by the other user.
+=====>If we click on the profile picture, We get the data of the user who has tweeted
+in the tweet card, 
+===>we can like the tweet,
+===> we can reply the tweet.
+===>We can reply that tweet. 
+==>We can retweet that tweet.
+===> User can also delete his own tweet, not others .
+====================>>>>>>>>> if we click on the cart content, (like where the tweets Written ) you  see the details of the tweets
+ like--who gives Reply  and we can reply in that page
+ .And going to the profile page 
+we get we get all the data
+ like profile pictures,
+ date of birth
+, date we joined in the Twitter and a location
+====>.And we can upload the profile picture
+===> We can edit the name, date of birth or location
+=====>.We can see our data which we has tweeted or replied
+====> last finally.And if you click on logout the wee leads to  in Login Page
